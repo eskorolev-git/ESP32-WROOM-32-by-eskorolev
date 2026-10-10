@@ -1,4 +1,4 @@
-# ESP32-WROOM-32 Proteus Library (Schematic Symbol Only)
+# ESP32-WROOM-32 Proteus Library (Schematic Symbol Only) by luwansg/eskorolev
 
 A schematic symbol of the ESP32-WROOM-32 DevKit (38-pin) for **Proteus**.
 
@@ -93,3 +93,4 @@ The symbol drawing and pin layout are original work. ESP32 and ESP32-WROOM-32 ar
 ## Contributing
 
 Found a wrong pin name or number? Open an issue or a pull request.
+luwansg/eskorolev
